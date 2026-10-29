@@ -136,7 +136,7 @@ The [Emotion Dataset](https://www.kaggle.com/datasets/parulpandey/emotion-datase
 
 ## Author
 
-- **Faiaz Abrar Zaman Pronoy** (ফাইয়াজ আবরার জামান প্রনয়)
+- **Faiaz Abrar Zaman Pronoy**
 
 ## Licence
 
